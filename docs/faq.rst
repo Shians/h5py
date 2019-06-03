@@ -8,7 +8,7 @@ What datatypes are supported?
 -----------------------------
 
 Below is a complete list of types for which h5py supports reading, writing and
-creating datasets. Each type is mapped to a native NumPy type.
+creating datasets. Each type is mapped to a native `NumPy type <https://www.numpy.org/devdocs/user/basics.types.html>`_.
 
 Fully supported types:
 
